@@ -76,7 +76,7 @@ void data::fill()
 	
 	//filling the least area
 	//note: Bug data same dimentions causes a problem in if-else
-	//note 2 updated: if we give the <= sign it will also work
+	//note 2 updated: if we give the <= sign it will also work (bug fixed)
 	if(a1 <= a2 && a1 <= a3)
 	{
 		la = a1/2;
