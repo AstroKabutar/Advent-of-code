@@ -1,6 +1,10 @@
-* This is my collection of advent of code challenges   
-* Every folder has a "file.hpp" and "file_imple.cpp" which has required codes and implementations as per needed  
-* Use c++ standered 20 to compile  
-* g++ file_imple.cpp <challengefile.cpp> -std=c++20  
-* There is no need to use valgrind or address sanitizer since i already checked it,  
-as i am practicing a good code practice :D
+# Advent of code
+
+Advent of code 2015-2020
+My solutions in Cpp
+
+# Solutions
+| Day | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 1 | [C++](/Cpp/2015/day1.cpp) |
+| 2 | [C++](/Cpp/2015/day2.cpp) |
