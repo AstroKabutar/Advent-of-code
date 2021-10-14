@@ -1,6 +1,3 @@
-//Bug: Need a spearate position keeper for each santas
-//https://onlinegdb.com/lM5HuChpN
-
 #include <array>
 #include <vector>
 #include <cmath>    //for std::sqrt(), std::pow()
