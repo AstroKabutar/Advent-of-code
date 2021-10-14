@@ -8,3 +8,4 @@ My solutions in Cpp
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 | [C++](/Cpp/2015/day1.cpp) |
 | 2 | [C++](/Cpp/2015/day2.cpp) |
+| 3 | [C++](/Cpp/2015/day3.cpp) |
