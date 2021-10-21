@@ -1,7 +1,7 @@
 # Advent of code
 
 Advent of code 2015-2020  
-For CPP the [Common Header](/Cpp/2015/common_header) dircetory has required code to compile
+For CPP the [Common Header](/Cpp/common_header) dircetory has required code to compile
 
 # Solutions
 | Day | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 |
