@@ -8,5 +8,5 @@ For `C++` Use [C++20](https://en.cppreference.com/w/cpp/20) to compile the code
 | Day | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
 | 1 | [C++](/Cpp/2015/day1.cpp) | | | | | | [C++](/Cpp/2021/day1.cpp)
-| 2 | [C++](/Cpp/2015/day2.cpp) |
+| 2 | [C++](/Cpp/2015/day2.cpp) | | | | | | [C++](/Cpp/2021/day2.cpp)
 | 3 | [C++](/Cpp/2015/day3.cpp) |
