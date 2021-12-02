@@ -20,6 +20,8 @@ namespace mv
 
 struct data
 {
+    //in part 2 the y part will become the AIM changes
+    
     //0 == x, 1 == y
     std::array<int, 2> m_coordinate{};
 
